@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Flash {
+public class Problem 4, Distribution of Grade {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int T = input.nextInt();
