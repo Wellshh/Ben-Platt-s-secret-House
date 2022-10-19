@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Problem 1, Months with 31 days {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);        int T = input.nextInt();
         int[] months = new int[T];
