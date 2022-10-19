@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Wangmingjie {
+public class Problem 2, Linear functions {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int T = input.nextInt();
