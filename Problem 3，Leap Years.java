@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Wells {
+public class Problem 3，Leap Years {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int T = input.nextInt();
